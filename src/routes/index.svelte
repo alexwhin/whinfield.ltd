@@ -10,12 +10,12 @@
 <div class="max-w-md m-auto text-center space-y-6 px-6 py-8">
   <h1 class="flex justify-center">
     <a href="https://whinfield.ltd">
-      <img src="logo-black.png" alt="Whinfield LTD" width="300" />
+      <img src="logo-black.png" alt="Whinfield LTD" class="w-[200px] lg:w-[280px]" />
     </a>
   </h1>
   <h2 class="text-2xl opacity-60 flex flex-col">
     <span>Alex Whinfield</span>
-    <span class="block text-lg">Software Development Contractor</span>
+    <span class="block text-lg">Full Stack Software Development</span>
   </h2>
   <div
     class="flex flex-col space-x-0 justify-center space-y-2 lg:flex-row lg:space-y-0 lg:space-x-2"
