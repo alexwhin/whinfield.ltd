@@ -10,7 +10,7 @@
 <div class="max-w-md m-auto text-center space-y-6 px-6 py-8">
   <h1 class="flex justify-center">
     <a href="https://whinfield.ltd">
-      <img src="logo-black.png" alt="Whinfield LTD" class="w-[200px] lg:w-[280px]" />
+      <img src="logo-black.png" alt="Whinfield LTD" class="w-[175px] lg:w-[250px]" />
     </a>
   </h1>
   <h2 class="text-2xl opacity-60 flex flex-col">
