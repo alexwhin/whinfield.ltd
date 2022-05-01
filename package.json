@@ -36,7 +36,8 @@
     "typescript": "~4.6.2"
   },
   "devDependencies": {
-    "@sveltejs/adapter-vercel": "next"
+    "@sveltejs/adapter-vercel": "next",
+    "svelte-meta-tags": "^2.5.1"
   },
   "type": "module"
 }
