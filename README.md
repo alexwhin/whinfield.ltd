@@ -2,7 +2,7 @@
 
 ![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=whinfield.ltd&style=for-the-badge&logo=false)
 
-Small personal website for Whinfield LTD built on [Svelte](https://svelte.dev/) (SvelteKit). Holding company for my full stack software development work.
+Small personal website for [Whinfield LTD](https://whinfield.ltd/) built on [Svelte](https://svelte.dev/) (SvelteKit). Holding company for my full stack software development work.
 
 ## License
 
