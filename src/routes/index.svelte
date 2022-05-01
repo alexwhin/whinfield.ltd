@@ -1,6 +1,5 @@
 <script>
   import Fa from "svelte-fa";
-  import { MetaTags } from "svelte-meta-tags";
   import { faAt } from "@fortawesome/free-solid-svg-icons/faAt";
   import { faCodeBranch } from "@fortawesome/free-solid-svg-icons/faCodeBranch";
   import { faCommentSms } from "@fortawesome/free-solid-svg-icons/faCommentSms";
@@ -9,29 +8,7 @@
 
   import Logo from "../components/Logo.svelte";
   import Button from "../components/Button.svelte";
-
-  const title = "Whinfield LTD";
-  const description = "Alex Whinfield - Full Stack Software Development";
 </script>
-
-<MetaTags
-  title={`Alex Whinfield - Full Stack Software Development | ${title}`}
-  canonical="https://whinfield.ltd/"
-  openGraph={{
-    url: "https://whinfield.ltd/",
-    title,
-    description,
-    images: [
-      {
-        url: "https://www.whinfield.ltd/logo-black.png",
-        width: 675,
-        height: 552,
-        alt: title
-      }
-    ],
-    site_name: title
-  }}
-/>
 
 <div class="max-w-md m-auto text-center space-y-6 px-6 py-8">
   <h1 class="flex justify-center">
@@ -51,7 +28,8 @@
   </div>
   <div class="opacity-40 text-sm space-y-2">
     <p>
-      {title} is a company registered in England and Wales, owned and operated by Alex Whinfield &copy;
+      Whinfield LTD is a company registered in England and Wales, owned and operated by Alex
+      Whinfield &copy;
       {new Date().getFullYear()}
     </p>
     <p class="flex flex-col space-x-2 justify-center space-y-1 lg:flex-row lg:space-y-0">

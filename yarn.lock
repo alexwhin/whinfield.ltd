@@ -1487,11 +1487,6 @@ sander@^0.5.0:
     mkdirp "^0.5.1"
     rimraf "^2.5.2"
 
-schema-dts@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/schema-dts/-/schema-dts-1.1.0.tgz#33227971076ef1daa33e56a3127a8aae030e81c9"
-  integrity sha512-vdmbs/5ycj4zyKpZIDqTcy+IZi4s7c38RVAYuDmRi7zgxUT8wRWPMLzg0jr7FjdVunYu9yZ00F3+XcZTTFcTOQ==
-
 semver@^7.2.1, semver@^7.3.5:
   version "7.3.7"
   resolved "https://registry.npmjs.org/semver/-/semver-7.3.7.tgz"
@@ -1625,13 +1620,6 @@ svelte-hmr@^0.14.11:
   version "0.14.11"
   resolved "https://registry.npmjs.org/svelte-hmr/-/svelte-hmr-0.14.11.tgz"
   integrity sha512-R9CVfX6DXxW1Kn45Jtmx+yUe+sPhrbYSUp7TkzbW0jI5fVPn6lsNG9NEs5dFg5qRhFNAoVdRw5qQDLALNKhwbQ==
-
-svelte-meta-tags@^2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/svelte-meta-tags/-/svelte-meta-tags-2.5.1.tgz#0ec8384ad09f22f692839270ee632d660dc80077"
-  integrity sha512-t2+2Ve0Rbmc5tZxUvaEv959PffkUsNk5afXSmgRbVbKiCAbsb2XhWJwUQdQDqeYlb3lRDLBywfwbjurdtb+NRQ==
-  dependencies:
-    schema-dts "1.1.0"
 
 svelte-preprocess@^4.0.0, svelte-preprocess@^4.10.1:
   version "4.10.6"
