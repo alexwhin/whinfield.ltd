@@ -33,7 +33,7 @@
       {new Date().getFullYear()}
     </p>
     <p class="flex flex-col space-x-2 justify-center space-y-1 lg:flex-row lg:space-y-0">
-      <span>Company Number TBC00000</span>
+      <span>Company Number 14086093</span>
       <a
         class="pt-1 opacity-60 hidden lg:block"
         href="https://github.com/alexwhin/whinfield.ltd"
@@ -42,7 +42,7 @@
         title="View on GitHub"
         ><Fa icon={faCodeBranch} />
       </a>
-      <span>VAT Number TBC000000</span>
+      <span>VAT Number GB:TBC0000</span>
     </p>
   </div>
 </div>
