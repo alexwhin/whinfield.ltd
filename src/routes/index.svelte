@@ -16,7 +16,7 @@
   </h1>
   <h2 class="text-2xl opacity-60 flex flex-col">
     <span>Alex Whinfield</span>
-    <span class="block text-lg">Full Stack Software Development</span>
+    <span class="block text-lg">Full Stack Software &amp; Web Development</span>
   </h2>
   <div
     class="flex flex-col space-x-0 justify-center space-y-2 lg:flex-row lg:space-y-0 lg:space-x-2"
@@ -42,7 +42,6 @@
         title="View on GitHub"
         ><Fa icon={faCodeBranch} />
       </a>
-      <span>VAT Number GB:TBC0000</span>
     </p>
   </div>
 </div>
